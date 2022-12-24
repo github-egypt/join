@@ -1,5 +1,7 @@
 # Github Egypt
 
+We are a team of Egyptian developers on GitHub
+
 ## Joining the organization
 To join the team:
 
